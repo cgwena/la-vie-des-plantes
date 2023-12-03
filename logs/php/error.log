@@ -1,0 +1,2 @@
+[01-Dec-2023 09:51:15 UTC] Cron reschedule event error for hook: validate_woopay_compatibility, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[02-Dec-2023 15:26:52 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
